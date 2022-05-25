@@ -1,0 +1,12 @@
+[package]
+name = "rust-beecrowd"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+
+
+[[bin]]
+name = "beecrowd_1000"
+path = "./src/beecrowd_1000.rs"
