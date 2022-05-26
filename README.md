@@ -1,7 +1,7 @@
-<h1 style="display:flex; flex-direction: row; justify-content: center; align-items: center">
+<div style="display:flex; flex-direction: row; justify-content: center; align-items: center">
   <img src=".github/assets/images/rust.svg" height="200" alt="rust">
-  <img src=".github/assets/images/beecrowd.webp" height="300" style="margin-bottom:-50px;" alt="rust">
-</h1>
+  <img src=".github/assets/images/beecrowd.webp" height="300" style="margin-bottom:-100px;" alt="rust">
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/github/license/gabrielmaialva33/rust-beecrowd?color=00b8d3?style=flat&logo=appveyor" alt="License" />
