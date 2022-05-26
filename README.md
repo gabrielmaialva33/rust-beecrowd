@@ -1,4 +1,4 @@
-<h1 style="display:inline-flex; flex-direction: row; justify-content: center; align-items: center">
+<h1 style="display:inline-flex;">
   <img src=".github/assets/images/rust.svg" height="200" alt="rust">
   <img src=".github/assets/images/beecrowd.webp" height="300"  alt="rust">
 </h1>
