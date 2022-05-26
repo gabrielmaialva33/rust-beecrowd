@@ -1,6 +1,6 @@
 <div style="display:flex; flex-direction: row; justify-content: center; align-items: center">
   <img src=".github/assets/images/rust.svg" height="200" alt="rust">
-  <img src=".github/assets/images/beecrowd.webp" height="400"  alt="rust">
+  <img src=".github/assets/images/beecrowd.webp" height="300"  alt="rust">
 </div>
 
 <p align="center">
