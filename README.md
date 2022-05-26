@@ -35,7 +35,7 @@
 
 ## :bookmark: About
 
-**Base RBAC** is a role-based access control base api that hopes to serve many projects.
+**Rust-Beecrowd ** it's a repository with my beecroed issue submissions.
 
 <br>
 
