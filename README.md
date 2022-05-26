@@ -1,7 +1,7 @@
 <div style="display:flex; flex-direction: row; justify-content: center; align-items: center">
     <h1 align="center" style="display:flex; flex-direction: row; justify-content: center; align-items: center">
-        <img src=".github/assets/images/rust.svg" height="200" alt="rust">
-       <img src=".github/assets/images/beecrowd.webp" height="300" alt="rust">
+        <img src=".github/assets/images/rust.svg" height="150" alt="rust">
+       <img src=".github/assets/images/beecrowd.webp" height="200" alt="rust">
     </h1>
 </div>
 
