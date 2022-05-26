@@ -10,3 +10,7 @@ edition = "2021"
 [[bin]]
 name = "beecrowd_1000"
 path = "./src/beecrowd_1000.rs"
+
+[[bin]]
+name = "beecrowd_1001"
+path = "./src/beecrowd_1001.rs"
