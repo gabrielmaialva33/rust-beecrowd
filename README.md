@@ -35,7 +35,7 @@
 
 ## :bookmark: About
 
-**Rust-Beecrowd ** it's a repository with my beecroed issue submissions.
+**Rust-Beecrowd** it's a repository with my beecroed issue submissions.
 
 <br>
 
