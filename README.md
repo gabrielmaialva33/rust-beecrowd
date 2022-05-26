@@ -1,6 +1,6 @@
 <h1 style="display:flex; flex-direction: row; justify-content: center; align-items: center">
   <img src=".github/assets/images/rust.svg" height="200" alt="rust">
-  <img src=".github/assets/images/beecrowd.webp" height="300" alt="rust">
+  <img src=".github/assets/images/beecrowd.webp" height="200" alt="rust">
 </h1>
 
 <p align="center">
@@ -80,8 +80,8 @@ The following software must be installed:
 
 ```sh
   $ cd rust-beecrowd
-  # Data base creation.
-  $ rustc ../src/beecrowd-submissions
+  # To compile rust solution
+  $ rustc ./src/beecrowd-submissions
 ```
 
 <br>
