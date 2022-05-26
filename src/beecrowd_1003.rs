@@ -1,4 +1,4 @@
-// https://www.beecrowd.com.br/judge/pt/problems/view/1001
+// https://www.beecrowd.com.br/judge/pt/problems/view/1003
 
 use std::io;
 
@@ -12,5 +12,5 @@ fn main() {
     let a: i32 = input_a.trim().parse::<i32>().unwrap_or_default();
     let b: i32 = input_b.trim().parse::<i32>().unwrap_or_default();
 
-    println!("SOMA = {}", a + b);
+    println!("X = {}", a + b);
 }
