@@ -2,7 +2,7 @@
 name = "rust-beecrowd"
 version = "0.1.0"
 edition = "2021"
-
+authors = ["Gabriel Maia <gabrielmaialva33@gmail.com>"]
 
 [dependencies]
 
@@ -38,3 +38,7 @@ path = "./src/beecrowd_1006.rs"
 [[bin]]
 name = "beecrowd_1007"
 path = "./src/beecrowd_1007.rs"
+
+[[bin]]
+name = "beecrowd_1008"
+path = "./src/beecrowd_1008.rs"
