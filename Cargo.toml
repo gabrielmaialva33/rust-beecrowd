@@ -86,3 +86,7 @@ path = "./src/beecrowd_1018.rs"
 [[bin]]
 name = "beecrowd_1019"
 path = "./src/beecrowd_1019.rs"
+
+[[bin]]
+name = "beecrowd_1020"
+path = "./src/beecrowd_1020.rs"

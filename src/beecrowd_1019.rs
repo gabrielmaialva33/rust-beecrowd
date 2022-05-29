@@ -1,4 +1,4 @@
-// https://www.beecrowd.com.br/judge/pt/problems/view/1018
+// https://www.beecrowd.com.br/judge/pt/problems/view/1019
 
 use std::io;
 
