@@ -3,12 +3,12 @@
 use std::io;
 
 fn main() {
-    let mut d = input_line();
-    println!("{} ano(s)", d / 365);
-    d = d % 365;
-    println!("{} mes(es)", d / 30);
-    d = d % 30;
-    println!("{} dia(s)", d)
+    let mut t = input_line();
+    println!("{} ano(s)", t / 365);
+    t = t % 365;
+    println!("{} mes(es)", t / 30);
+    t = t % 30;
+    println!("{} dia(s)", t)
 }
 
 fn input_line() -> i32 {
