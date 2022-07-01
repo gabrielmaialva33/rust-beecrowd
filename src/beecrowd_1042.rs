@@ -7,15 +7,15 @@ fn main() {
     let mut array: [i64; 3] = [x, y, z];
     array.sort();
 
-    for i in array {
-        println!("{}", i);
+    for i in 0..3 {
+        println!("{}", array[i]);
     }
 
     println!();
 
     let array: [i64; 3] = [x, y, z];
-    for i in array {
-        println!("{}", i);
+    for i in 0..3 {
+        println!("{}", array[i]);
     }
 }
 
