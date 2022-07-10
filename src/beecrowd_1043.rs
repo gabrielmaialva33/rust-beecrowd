@@ -1,4 +1,4 @@
-// https://www.beecrowd.com.br/judge/pt/problems/view/1042
+// https://www.beecrowd.com.br/judge/pt/problems/view/1043
 
 use std::convert::TryFrom;
 
