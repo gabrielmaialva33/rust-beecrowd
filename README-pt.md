@@ -81,12 +81,16 @@ Os seguintes softwares devem estar instalados:
 ```sh
   $ cd rust-beecrowd
   # Para compilar a solução
-  $ rustc ./src/beecrowd-submissions
+  $ rustc ./src/main.rs
 ```
 
 <br>
 
-## :memo: Licença
+### :writing_hand: **Autor**
+
+| [![Gabriel Maia](https://avatars.githubusercontent.com/u/26732067?size=100)](https://github.com/demartini) |
+| ---------------------------------------------------------------------------------------------------------- |
+| [Gabriel Maia](https://github.com/gabrielmaialva33)                                      |
 
 O projeto está sobre a licença [MIT](./LICENSE) ❤️
 

@@ -4,7 +4,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/gabrielmaialva33/rust-beecrowd?color=00b8d3?style=flat&logo=appveyor" alt="License" />
   <img src="https://img.shields.io/github/languages/top/gabrielmaialva33/rust-beecrowd?style=flat&logo=appveyor" alt="GitHub top language" >
   <img src="https://img.shields.io/github/languages/count/gabrielmaialva33/rust-beecrowd?style=flat&logo=appveyor" alt="GitHub language count" >
   <img src="https://img.shields.io/github/repo-size/gabrielmaialva33/rust-beecrowd?style=flat&logo=appveyor" alt="Repository size" >
@@ -13,6 +12,7 @@
     <img src="https://img.shields.io/github/last-commit/gabrielmaialva33/rust-beecrowd?style=flat&logo=appveyor" alt="GitHub last commit" >
     <img src="https://img.shields.io/badge/made%20by-Maia-15c3d6?style=flat&logo=appveyor" alt="Maia" >  
   </a>
+  <img src="https://img.shields.io/github/license/gabrielmaialva33/rust-beecrowd?color=00b8d3?style=flat&logo=appveyor" alt="License" />
 </p>
 
 <br>
@@ -43,14 +43,13 @@
 
 - **[Rust](https://www.rust-lang.org/)**
 - **[Cargo](https://crates.io/)**
-- **[Beecrowd](https://www.beecrowd.com.br/judge)**
 
 <br>
 
 ## :wrench: Tools
 
 - **[IntelliJ IDEA](https://www.jetbrains.com/idea/)**
-- **[Edge Microsoft](https://www.microsoft.com/en-us/edge/)**
+- **[Beecrowd](https://www.beecrowd.com.br/judge)**
 
 <br>
 
@@ -81,13 +80,19 @@ The following software must be installed:
 ```sh
   $ cd rust-beecrowd
   # To compile rust solution
-  $ rustc ./src/beecrowd-submissions
+  $ rustc ./src/main.rs
 ```
 
 <br>
 
-## :memo: License
+### :writing_hand: **Author**
 
-This project is under the **MIT** license. [MIT](./LICENSE) ❤️
+| [![Gabriel Maia](https://avatars.githubusercontent.com/u/26732067?size=100)](https://github.com/demartini) |
+| ---------------------------------------------------------------------------------------------------------- |
+| [Gabriel Maia](https://github.com/gabrielmaialva33)                                      |
+
+## License
+
+[MIT License](./LICENSE.md)
 
 Liked? Leave a little star to help the project ⭐
