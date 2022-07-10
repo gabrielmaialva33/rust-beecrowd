@@ -1,4 +1,4 @@
-// https://www.beecrowd.com.br/judge/pt/problems/view/1052
+// https://www.beecrowd.com.br/judge/pt/problems/view/1059
 
 fn main() {
     for i in 1..101 {

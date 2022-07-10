@@ -1,4 +1,4 @@
-// https://www.beecrowd.com.br/judge/pt/problems/view/1051
+// https://www.beecrowd.com.br/judge/pt/problems/view/1052
 
 fn main() {
     let x = input_line();
