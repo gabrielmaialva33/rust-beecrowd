@@ -1,4 +1,4 @@
-// https://www.beecrowd.com.br/judge/pt/problems/view/1065
+// https://www.beecrowd.com.br/judge/pt/problems/view/1066
 
 fn main() {
     let (mut even, mut odd, mut positive, mut negative) = (0, 0, 0, 0);
