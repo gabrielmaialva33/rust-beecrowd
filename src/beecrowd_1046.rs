@@ -4,14 +4,15 @@ use std::convert::TryFrom;
 
 fn main() {
     let (init_hour, end_hour) = input_line();
-    if init_hour >= end_hour {
-        println!(
-            "O JOGO DUROU {} HORA(S)",
+
+    println!(
+        "O JOGO DUROU {} HORA(S)",
+        if init_hour >= end_hour {
             ((init_hour - 24) - end_hour) * -1
-        );
-    } else {
-        println!("O JOGO DUROU {} HORA(S)", ((init_hour) - end_hour) * -1);
-    }
+        } else {
+            end_hour - init_hour
+        }
+    );
 }
 
 fn input_line() -> (i64, i64) {
