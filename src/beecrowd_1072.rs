@@ -11,4 +11,7 @@ fn main() {
         let value = input.trim().parse::<i64>().unwrap();
         vec.push(value);
     }
+
+    println!("{} in", vec.iter().filter(|&x| *x >= 10 && *x <= 20).count());
+    println!("{} out", vec.iter().filter(|&x| *x < 10 || *x > 20).count());
 }
